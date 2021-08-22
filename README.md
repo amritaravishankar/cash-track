@@ -7,7 +7,10 @@ CashTrack provides an integrated platform solution that enables users to collect
 3. Data Analytics
 4. Chat
 
-#### CashTrack Set Up: Deployment
+## UI
+<img src = "https://github.com/amritaravishankar/cash-track/blob/master/cashtrack.png" width = "250">
+
+## CashTrack Set Up: Deployment
 
 <b> Backend </b>
 ```
