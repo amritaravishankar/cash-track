@@ -8,7 +8,7 @@ CashTrack provides an integrated platform solution that enables users to collect
 4. Chat
 
 ## UI
-<img src = "https://github.com/amritaravishankar/cash-track/blob/master/cashtrack.png" width = "250">
+<img src = "https://github.com/amritaravishankar/cash-track/blob/master/cashtrack.png" width = "400">
 
 ## CashTrack Set Up: Deployment
 
