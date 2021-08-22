@@ -1,6 +1,6 @@
-# CashTrack
+# 💵 CashTrack
 
-CashTrack provides an integrated platform solution that enables users to collectively record, analyse and settle their monetary transactions between each other. The key features of this expense tracker application, CashTrack, are as follows:
+CashTrack provides an integrated one-stop platform solution that enables users to collectively record, analyse and settle their monetary transactions between each other. The key features of this expense tracker application, CashTrack, are as follows:
 
 1. Personal Expense Tracking
 2. Split/Group Expense Tracking
